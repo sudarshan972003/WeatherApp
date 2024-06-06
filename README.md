@@ -19,18 +19,27 @@ Follow these steps to run the project locally:
    git clone https://github.com/sudarshan972003/WeatherApp.git
    cd WeatherApp
 
-2. **Install dependencies:**
+2. **Create React App:**
+   ```bash
+   npm create vite@latest
+
+   Project name: ./
+   Package name: WeatherApp
+   Select a framework: React
+   Select a variant: JavaScript
+
+3. **Install dependencies:**
 
    ```bash
    npm install
 
-3. **Set up Tailwind CSS:**
+4. **Set up Tailwind CSS:**
 
    ```bash
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
 
-4. **Run the app:**
+5. **Run the app:**
 
    ```bash
    npm run dev
