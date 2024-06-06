@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
    ```bash
    npm run dev
 
-   The app should now be running on http://localhost:5173/.
+The app should now be running on http://localhost:5173/.
 
 
 ## Required Installations
@@ -117,7 +117,7 @@ Make sure to have the following tools installed on your system:
 - This project is licensed under the MIT License.
 
 ## Author
-Developed by Sudarshan Thiruppathi.
+- Developed by Sudarshan Thiruppathi.
 
 
 
